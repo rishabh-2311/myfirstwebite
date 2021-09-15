@@ -11,6 +11,8 @@ const App=()=>{
 
         <div>
          Hello Sakshi !! 
+
+         <img alt="my love" src="1.JPG" style={{"width": "500px", "height": "auto"}} ></img>
         </div>
 
 
